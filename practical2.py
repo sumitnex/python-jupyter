@@ -2,7 +2,7 @@ import numpy as np
 
 # 1D array
 arr1 = np.array([10, 20, 30, 40, 50])
-
+#printing
 print("1D Array:")
 print(arr1)
 
