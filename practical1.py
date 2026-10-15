@@ -1,6 +1,5 @@
 import math
 
-
 a = 10
 print("Integer:", a)
 print("Type:", type(a))
@@ -85,7 +84,6 @@ print("NOT:", not x)
 z = None
 print("\nNone:", z)
 print("Type:", type(z))
-
 
 
 print("sqrt(25):", math.sqrt(25))
