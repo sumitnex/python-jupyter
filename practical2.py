@@ -10,7 +10,7 @@ print(arr1)
 print("First element:", arr1[0])
 print("Third element:", arr1[2])
 
-# Slicing
+# Slicing array
 print("First three elements:", arr1[:3])
 print("Elements from index 2:", arr1[2:])
 
