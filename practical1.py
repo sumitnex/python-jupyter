@@ -12,6 +12,7 @@ print("Type:", type(b))
 print("Division:", b / 2)
 print("Rounded:", round(b))
 
+#complex no representation.
 
 c = 3 + 4j
 print("\nComplex:", c)
